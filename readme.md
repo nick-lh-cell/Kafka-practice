@@ -8,3 +8,8 @@
 
 npm init -y
 npm install kafkajs sqlite3
+
+
+### drive
+
+https://drive.google.com/drive/folders/1q3jbw1Ta21Q5r2KW3ZDDz0hpTSxJp9ni
